@@ -12,10 +12,9 @@ body {
     /* height: 100vh !important; */
 }
 #about {
-    height: 100vh;
     background-color: indigo;
     color: white;
-    padding: 20px;
+    padding: 10px;
     text-align: justify;
 }
 #services {
@@ -30,7 +29,7 @@ body {
 #team {
     background-color: indigo;
     color: white;
-    padding: 20px;
+    padding: 5px;
 }
 #contact {
     height: 25vh;
